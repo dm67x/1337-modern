@@ -1,0 +1,24 @@
+{
+  "name": "1337-modern",
+  "author": "dm67x",
+  "publisher": "dm67x",
+  "repository": "https://github.com/dm67x/1337-modern",
+  "displayName": "1337-modern",
+  "description": "1337 theme with modern dark UI",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "1337 Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/1337 Modern-color-theme.json"
+      }
+    ]
+  }
+}
